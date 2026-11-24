@@ -1,2 +1,2 @@
 # SurvivalcraftMaps
-Maps about survivalcraft2.3
+Maps about survivalcraft2.3 and 2.4
